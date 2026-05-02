@@ -1,4 +1,4 @@
-# Week 7: JavaScript Best Practices
+# JavaScript Best Practices
 
 ## 📌 Overview
 This project focuses on improving JavaScript skills by adding data persistence, state management, and clean code practices.
